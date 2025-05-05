@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import json
 
-with open("saves/data.json", 'r') as f:
+with open("results/data.json", 'r') as f:
     data = json.load(f)
 
 unique_nodes = data["unique_nodes"]

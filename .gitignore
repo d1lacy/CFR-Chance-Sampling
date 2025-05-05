@@ -9,5 +9,6 @@ archive/
 saves/
 
 test.py
-raise_playuer.py
+raise_player.py
 
+.DS_Store
